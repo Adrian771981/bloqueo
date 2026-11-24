@@ -3,7 +3,4 @@
 190.98.160.65
 8.8.8.8
 8.8.4.4
-infobae.com
-*.infobae
-www.infobae.com
 1.1.1.1
